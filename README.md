@@ -2,6 +2,14 @@
 
 Este proyecto es una página web temática de Dragon Ball Z, desarrollada con HTML y CSS.
 
+## Vista Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://luminous-narwhal-6b7616.netlify.app).
+
+
+![Texto Alternativo](https://github.com/DannyCrisostomo/Dragon-ball-z/blob/5e605b7e0dbb6093811ab97341bbf64678a018c3/dragon%20ball.png)
+
+
 ## Instrucciones
 
 1. Descarga o clona este repositorio.
@@ -26,13 +34,6 @@ Este proyecto es una página web temática de Dragon Ball Z, desarrollada con HT
 - Información temática sobre Goku.
 - Frase icónica de Goku.
 - Botón con llamada a la acción.
-
-## Vista Previa 🌐
-
-Puedes acceder a una vista previa en vivo del prototipo [aquí](https://luminous-narwhal-6b7616.netlify.app).
-
-
-![Texto Alternativo](https://github.com/DannyCrisostomo/Dragon-ball-z/blob/5e605b7e0dbb6093811ab97341bbf64678a018c3/dragon%20ball.png)
 
 
 ## Contribuciones
