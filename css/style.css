@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+header {
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.fondo {
+    height: 100vh;
+    width: 100%;
+    display: block;
+    object-fit: cover;
+    position: absolute;
+}
+
+.baner {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.481);
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin-inline: auto;
+    padding-top: 10px;
+}
+
+.logo img {
+    height: 60px;
+    width: 220px;
+    opacity: .2;
+    animation: logo 3s infinite;
+}
+
+@keyframes logo {
+    0% {
+        opacity: .6;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: .6;
+    }
+}
+
+@keyframes icono {
+    0% {
+        opacity: .6;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: .6;
+    }
+}
+
+.icono img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    height: 60px;
+    width: 50px;
+}
+
+.icono {
+    display: flex;
+    gap: 5px;
+    opacity: .2;
+    animation: icono 3s infinite;
+}
+
+.imagen {
+    background-color: #0000001a;
+    border-radius: 50%;
+    border: 3px solid rgb(255 0 94);
+    padding: 5px;
+}
+
+.name {
+    font-weight: 700;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.contenedor {
+    height: 100%;
+    display: flex;
+    width: 90%;
+    margin-inline: auto;
+}
+
+.informacion {
+    width: 70%;
+    height: 100%;
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.informacion1 h1 {
+    font-size: 4em;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.informacion2 p {
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contenido {
+    display: flex;
+    align-items: flex-end;
+    width: 80%;
+    height: 100%;
+    justify-content: center;
+}
+
+.goku {
+    position: absolute;
+    display: flex;
+    opacity: .2;
+    animation: goku 3s infinite;
+}
+@keyframes goku {
+    0% {
+        opacity: .6;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: .6;
+    }
+}
+
+.goku img {
+    width: 115%;
+    margin: 0em -2.7em;
+    height: 570px;
+}
+
+.rayos {
+    position: relative;
+    opacity: 1;
+    animation: electrico 3s infinite;
+}
+@keyframes electrico {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: .2;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+.rayos img {
+    width: 100%;
+    margin: 0em 0em;
+    height: 570px;
+}
+button {
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px 40px;
+    border-radius: 20px;
+    background: transparent;
+    border: 4px solid rgb(255 0 94);
+    color: white;
+}
+button:hover {
+    background: transparent;
+    backdrop-filter: blur(10px);
+    cursor: pointer;
+}
+.informacion1 h1 {
+    font-weight: 900;
+    color: rgb(255 0 94);
+    font-size: 3em;
+}
