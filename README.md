@@ -29,7 +29,8 @@ Este proyecto es una página web temática de Dragon Ball Z, desarrollada con HT
 
 ## Vista Previa
 
-Añade una imagen o enlace a una vista previa aquí.
+![Texto Alternativo](https://github.com/DannyCrisostomo/Dragon-ball-z/blob/5e605b7e0dbb6093811ab97341bbf64678a018c3/dragon%20ball.png)
+
 
 ## Contribuciones
 
