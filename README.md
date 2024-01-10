@@ -39,7 +39,3 @@ Este proyecto es una página web temática de Dragon Ball Z, desarrollada con HT
 1. Haz un fork del repositorio.
 2. Crea una rama para tu contribución.
 3. Envía un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Consulta el archivo `LICENSE` para más detalles.
